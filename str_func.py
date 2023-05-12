@@ -1,5 +1,5 @@
 def upper_str(value):
-    """ Преобразует все буквы в загдавные"""
+    """ Преобразует все буквы в заглавные"""
     return value.upper()
 
 def title_str(value):
